@@ -1,4 +1,4 @@
-# HKindle
+# WEKindle
 
 Run project as a Kindle service.
 
